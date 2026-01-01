@@ -113,7 +113,7 @@ Potential next steps for this lab:
 ---
 
 **Author:** Muhammad Omar  
-**Date Completed:** December 2024  
+**Date Completed:** 31 December 2025  
 **Time Invested:** 10 days of hands-on learning  
 
 *This project demonstrates the ability to design, deploy, and document enterprise infrastructure from scratch.*
